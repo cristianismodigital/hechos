@@ -12,7 +12,7 @@
 
 <AutoSaveFile>C:\Users\Yusef Gonzalez\AppData\Local\TechSmith\Camtasia Studio\8.0\Auto-Saves\cabezotes1224a64.autosave.camproj</AutoSaveFile>
 
-<ProjectID>93F52C8A-19E3-4ACD-BBED-AAB74DCC2D6A</ProjectID>
+<ProjectID>15FB5FEF-2B8C-416A-84A8-CA45C22EACA8</ProjectID>
 
 <PowerPointProject>0</PowerPointProject>
 
@@ -44,17 +44,17 @@
   <Comment></Comment>
   <System></System>
   <SourceBin id="3"  >
-    <Source id="4" src="C:\Users\Yusef Gonzalez\Documents\cristianismodigital\hechos\audios\la oracion en los hechos\recording-20190218-001131.mp3" lastMod="20190218T052220" rect="(0,0,0,0)" >
+    <Source id="4" src="E:\cristianismodigital\hechos\audios\la oracion en los hechos\recording-20190218-001131.mp3" lastMod="20190424T204237" rect="(0,0,0,0)" >
       <SourceTrack range="(0,144333333)" type="2" editRate="10000000/1" trackRect="(0,0,0,0)" sampleRate="44100/1" bitDepth="0" numChannels="1" filename="" metaData="" />
     </Source>
-    <Source id="5" src="C:\Users\Yusef Gonzalez\Documents\cristianismodigital\hechos\audios\la oracion en los hechos\recording-20190218-001011.mp3" lastMod="20190218T052143" rect="(0,0,0,0)" >
+    <Source id="5" src="E:\cristianismodigital\hechos\audios\la oracion en los hechos\recording-20190218-001011.mp3" lastMod="20190424T204237" rect="(0,0,0,0)" >
       <SourceTrack range="(0,140333333)" type="2" editRate="10000000/1" trackRect="(0,0,0,0)" sampleRate="44100/1" bitDepth="0" numChannels="1" filename="" metaData="" />
     </Source>
-    <Source id="6" src="C:\Users\Yusef Gonzalez\Documents\cristianismodigital\Distant_Love.mp3" lastMod="20190110T203231" rect="(0,0,0,0)" >
+    <Source id="6" src="E:\cristianismodigital\juan\Distant_Love.mp3" lastMod="20190110T203231" rect="(0,0,0,0)" >
       <SourceTrack range="(0,1707333333)" type="2" editRate="10000000/1" trackRect="(0,0,0,0)" sampleRate="44100/1" bitDepth="0" numChannels="2" filename="" metaData="" />
     </Source>
-    <Source id="7" src="C:\Users\Yusef Gonzalez\Documents\cristianismodigital\hechos\audios\libro hechos de los apostoles\bajos\47.mp3" lastMod="20190402T142832" rect="(0,0,0,0)" >
-      <SourceTrack range="(0,4151666667)" type="2" editRate="10000000/1" trackRect="(0,0,0,0)" sampleRate="48000/1" bitDepth="0" numChannels="2" filename="" metaData="" />
+    <Source id="7" src="E:\cristianismodigital\hechos\audios\libro hechos de los apostoles\fin\dia49\49.mp3" lastMod="20190424T192332" rect="(0,0,0,0)" >
+      <SourceTrack range="(0,4183666667)" type="2" editRate="10000000/1" trackRect="(0,0,0,0)" sampleRate="48000/1" bitDepth="0" numChannels="2" filename="" metaData="" />
     </Source>
   </SourceBin>
   <Timeline id="8"  >
@@ -105,7 +105,7 @@
           <entry key="WinSubProjectDisplayName" val=""/>
          </MetaData>
         </AMFile>
-        <AMFile id="32" start="12737" duration="259" scalar="1/1" mediaStart="640/1" mediaDuration="259/1" trackNumber="0" src="6" channelNumber="0,1" >
+        <AMFile id="32" start="12833" duration="259" scalar="1/1" mediaStart="640/1" mediaDuration="259/1" trackNumber="0" src="6" channelNumber="0,1" >
          <Parameters>
           <InterpolatingParam id="33" interp="linr"  name="volume">
            <Keyframes>
@@ -181,7 +181,7 @@
           <entry key="WinSubProjectDisplayName" val=""/>
          </MetaData>
         </AMFile>
-        <AMFile id="69" start="12798" duration="198" scalar="1/1" mediaStart="222/1" mediaDuration="198/1" trackNumber="0" src="5" channelNumber="0" >
+        <AMFile id="69" start="12894" duration="198" scalar="1/1" mediaStart="222/1" mediaDuration="198/1" trackNumber="0" src="5" channelNumber="0" >
          <Parameters>
           <InterpolatingParam id="70" interp="linr"  time="0/1" value="1" leadInLength="0/1"  name="volume"/>
           <Parameter id="71"  name="captions"/>
@@ -241,9 +241,9 @@
         <entry key="WinTrackHeight" val="62"/>
        </MetaData>
        <Medias>
-        <AMFile id="92" start="282" duration="12455" scalar="1/1" mediaStart="0/1" mediaDuration="12455/1" trackNumber="0" src="7" channelNumber="0,1" >
+        <AMFile id="92" start="282" duration="12551" scalar="1/1" mediaStart="0/1" mediaDuration="12551/1" trackNumber="0" src="7" channelNumber="0,1" >
          <Parameters>
-          <InterpolatingParam id="93" interp="linr"  time="0/1" value="2.2350230414746544" leadInLength="0/1"  name="volume"/>
+          <InterpolatingParam id="93" interp="linr"  time="0/1" value="1" leadInLength="0/1"  name="volume"/>
           <Parameter id="94"  name="captions"/>
          </Parameters>
          <Attributes>
